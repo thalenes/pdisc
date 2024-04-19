@@ -1,0 +1,1 @@
+let myWord = "Caminando en linea recta no puede uno llegar muy lejos";
